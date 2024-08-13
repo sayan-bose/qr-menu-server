@@ -1,0 +1,6 @@
+import 'reflect-metadata';
+import 'dotenv/config';
+
+import { start } from './server';
+
+start();
